@@ -1,0 +1,19 @@
+# Secrets — never commit
+.env
+
+# Test/processed HR documents — real or simulated PII must never be pushed
+hr_module/inbox/*
+!hr_module/inbox/.gitkeep
+
+hr_module/archive/clean/*
+!hr_module/archive/clean/.gitkeep
+
+hr_module/archive/flagged/*
+!hr_module/archive/flagged/.gitkeep
+
+hr_module/logs/*
+!hr_module/logs/.gitkeep
+
+# OS/editor clutter
+.DS_Store
+*.swp
