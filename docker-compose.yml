@@ -47,7 +47,6 @@ services:
       GENERIC_TIMEZONE: Africa/Johannesburg
       TZ: Africa/Johannesburg
       NODE_FUNCTION_ALLOW_BUILTIN: "*"
-      NODE_FUNCTION_ALLOW_EXTERNAL: pdf-parse
     ports:
       - "5678:5678"
     volumes:
