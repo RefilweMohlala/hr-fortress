@@ -152,4 +152,4 @@ This is Module 2 of 5 in an AI automation engineering portfolio:
 4. *(in progress)*
 5. *(in progress)*
 
-Built by Refilwe Mohlala — [LinkedIn](#) *(add your link)*
+Built by Refilwe Mohlala 
