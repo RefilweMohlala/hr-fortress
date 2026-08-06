@@ -4,7 +4,6 @@
 local, air-gapped document processing pipeline built for South African
 HR compliance under POPIA.
 
-🎥 [Watch the full walkthrough on Loom](#) *(add your Loom link here)*
 
 ---
 
