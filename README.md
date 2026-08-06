@@ -45,18 +45,6 @@ ever leaves the machine.
 
 ## Architecture
 
-```
-┌─────────────┐     ┌──────┐     ┌─────────────┐
-│  Local File  │────▶│  n8n │────▶│  PostgreSQL │
-│    Inbox     │     │      │     │ (Audit Log) │
-└─────────────┘     │      │     └─────────────┘
-                     │      │
-                     │      │     ┌─────────────┐
-                     │      │────▶│   Ollama    │
-                     │      │     │ (Local LLM) │
-                     └──────┘     └─────────────┘
-```
-
 All three services run in Docker on a single bridge network. No
 internet connection is required for the document processing itself —
 only the initial Ollama model download needs one.
