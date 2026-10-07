@@ -1,11 +1,5 @@
 # HR Document Fortress
 
-**Module 2 of a five-module AI automation engineering portfolio** — a
-local, air-gapped document processing pipeline built for South African
-HR compliance under POPIA.
-
-
----
 
 ## The problem
 
@@ -17,7 +11,7 @@ under South Africa's Protection of Personal Information Act (POPIA) —
 specifically Section 72's restrictions on transferring personal
 information outside the country.
 
-This project takes a different approach: **every step runs locally.**
+This takes a different approach: **every step runs locally.**
 No document, and no piece of personal information extracted from it,
 ever leaves the machine.
 
