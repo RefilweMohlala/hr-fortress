@@ -133,17 +133,4 @@ Being upfront about what this doesn't do yet:
   NER model as a second detection pass.
 
 ---
-
-## Part of a larger portfolio
-
-This is Module 2 of 5 in an AI automation engineering portfolio:
-
-1. **Lead Qualification Pipeline** — event-driven lead scoring with
-   GoHighLevel, Claude, and Google Sheets
-2. **HR Document Fortress** *(this module)* — local, air-gapped POPIA
-   compliance pipeline
-3. *(in progress)*
-4. *(in progress)*
-5. *(in progress)*
-
 Built by Refilwe Mohlala 
